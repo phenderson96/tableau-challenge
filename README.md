@@ -1,5 +1,10 @@
 # Tableau Homework - Citi Bike Analytics
 
+Pierce Henderson
+
+Trip duration comparisson between years
+stolen bikes
+soho business 
 ### Before You Begin
 
 * This assignment will be saved to your Tableau Public account rather than GitHub. 
